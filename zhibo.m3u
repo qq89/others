@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1HD
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV2HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV2HD_6000.m3u8
+#EXTINF:-1 ,CCTV3HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV3HD_6000.m3u8
+#EXTINF:-1 ,CCTV4HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV4HD_6000.m3u8
+#EXTINF:-1 ,CCTV5HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV5HD_6000.m3u8
+#EXTINF:-1 ,CCTV5+HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV5plusHD_6000.m3u8
+#EXTINF:-1 ,CCTV6HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV6HD_6000.m3u8
+#EXTINF:-1 ,CCTV7HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV7HD_6000.m3u8
+#EXTINF:-1 ,CCTV8HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV8HD_6000.m3u8
+#EXTINF:-1 ,CCTV9HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV9HD_6000.m3u8
+#EXTINF:-1 ,CCTV10HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV10HD_6000.m3u8
+#EXTINF:-1 ,CCTV11
+http://yfsl.vsd.gehua.net.cn/live/CCTV11HD_2000.m3u8
+#EXTINF:-1 ,CCTV12HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV12HD_6000.m3u8
+#EXTINF:-1 ,CCTV13
+http://yfsl.vsd.gehua.net.cn/live/CCTV13HD_2000.m3u8
+#EXTINF:-1 ,CCTV14HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV14HD_6000.m3u8
+#EXTINF:-1 ,CCTV15HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV15HD_6000.m3u8
+#EXTINF:-1 ,CCTV16HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV16HD_6000.m3u8
+#EXTINF:-1 ,CCTV17HD
+http://yfsl.vsd.gehua.net.cn/live/CCTV17HD_6000.m3u8
+#EXTINF:-1 ,CGTN
+http://yfsl.vsd.gehua.net.cn/live/CGTN_2000.m3u8
+#EXTINF:-1 ,凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,歌华导视
+http://yfsl.vsd.gehua.net.cn/live/GeHuadaoshiHD_6000.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://yfsl.vsd.gehua.net.cn/live/CHC_2000.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://yfsl.vsd.gehua.net.cn/live/CHCHD_6000.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://yfsl.vsd.gehua.net.cn/live/Motion_2000.m3u8
+#EXTINF:-1 ,都市剧场
+http://yfsl.vsd.gehua.net.cn/live/DuShiJuChangHD_6000.m3u8
+#EXTINF:-1 ,劲爆体育
+http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_6000.m3u8
+#EXTINF:-1 ,浙江卫视
+http://yfsl.vsd.gehua.net.cn/live/ZheJiangHD_6000.m3u8
+#EXTINF:-1 ,北京卫视
+http://yfsl.vsd.gehua.net.cn/live/BTV1HD_6000.m3u8
+#EXTINF:-1 ,广西卫视
+http://yfsl.vsd.gehua.net.cn/live/GuangXiHD_6000.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://yfsl.vsd.gehua.net.cn/live/LiaoNingHD_6000.m3u8
+#EXTINF:-1 ,安徽卫视
+http://yfsl.vsd.gehua.net.cn/live/AnHuiHD_6000.m3u8
+#EXTINF:-1 ,江苏卫视
+http://yfsl.vsd.gehua.net.cn/live/JiangSuHD_6000.m3u8
+#EXTINF:-1 ,东方卫视
+http://yfsl.vsd.gehua.net.cn/live/DongFangHD_6000.m3u8
+#EXTINF:-1 ,东南卫视
+http://yfsl.vsd.gehua.net.cn/live/FuJianHD_6000.m3u8
+#EXTINF:-1 ,湖南卫视
+http://yfsl.vsd.gehua.net.cn/live/HuNanHD_6000.m3u8
+#EXTINF:-1 ,湖北卫视
+http://yfsl.vsd.gehua.net.cn/live/HuBeiHD_6000.m3u8
+#EXTINF:-1 ,广东卫视
+http://yfsl.vsd.gehua.net.cn/live/GuangDongHD_6000.m3u8
+#EXTINF:-1 ,广西卫视
+http://yfsl.vsd.gehua.net.cn/live/GuangXiHD_6000.m3u8
+#EXTINF:-1 ,深圳卫视
+http://yfsl.vsd.gehua.net.cn/live/ShenZhenHD_6000.m3u8
+#EXTINF:-1 ,四川卫视
+http://yfsl.vsd.gehua.net.cn/live/SiChuanHD_6000.m3u8
+#EXTINF:-1 ,山东卫视
+http://yfsl.vsd.gehua.net.cn/live/ShanDongHD_6000.m3u8
+#EXTINF:-1 ,河南卫视
+http://yfsl.vsd.gehua.net.cn/live/HeNanHD_6000.m3u8
+#EXTINF:-1 ,河北卫视
+http://yfsl.vsd.gehua.net.cn/live/HeBeiHD_6000.m3u8
+#EXTINF:-1 ,江西卫视
+http://yfsl.vsd.gehua.net.cn/live/JiangXiHD_6000.m3u8
+#EXTINF:-1 ,天津卫视
+http://yfsl.vsd.gehua.net.cn/live/TianJinHD_6000.m3u8
+#EXTINF:-1 ,重庆卫视
+http://yfsl.vsd.gehua.net.cn/live/ChongQingHD_6000.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://yfsl.vsd.gehua.net.cn/live/HeiLongJiangHD_6000.m3u8
+#EXTINF:-1 ,吉林卫视
+http://yfsl.vsd.gehua.net.cn/live/JiLinWeiShiHD_6000.m3u8
+#EXTINF:-1 ,海南卫视
+http://yfsl.vsd.gehua.net.cn/live/LvYouWeiShiHD_6000.m3u8
+#EXTINF:-1 ,三沙卫视
+http://yfsl.vsd.gehua.net.cn/live/ipcdn,SanSha_800K_live.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://yfsl.vsd.gehua.net.cn/live/NeiMengGuHD_2000.m3u8
+#EXTINF:-1 ,山西卫视
+http://yfsl.vsd.gehua.net.cn/live/ShanXiHD_2000.m3u8
+#EXTINF:-1 ,陕西卫视
+http://yfsl.vsd.gehua.net.cn/live/ShannXiHD_2000.m3u8
+#EXTINF:-1 ,云南卫视
+http://yfsl.vsd.gehua.net.cn/live/YunNanHD_2000.m3u8
+#EXTINF:-1 ,兵团卫视
+http://yfsl.vsd.gehua.net.cn/live/BTTVHD_2000.m3u8
+#EXTINF:-1 ,贵州卫视
+http://yfsl.vsd.gehua.net.cn/live/GuiZhouHD_2000.m3u8
+#EXTINF:-1 ,青海卫视
+http://yfsl.vsd.gehua.net.cn/live/QingHaiHD_2000.m3u8
+#EXTINF:-1 ,X藏卫视
+http://yfsl.vsd.gehua.net.cn/live/XiZangHD_2000.m3u8
+#EXTINF:-1 ,新疆卫视
+http://yfsl.vsd.gehua.net.cn/live/XinJiangHD_2000.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://yfsl.vsd.gehua.net.cn/live/GanSuHD_2000.m3u8
+#EXTINF:-1 ,厦门卫视
+http://yfsl.vsd.gehua.net.cn/live/XiaMenHD_2000.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://yfsl.vsd.gehua.net.cn/live/NingXiaHD_2000.m3u8
+#EXTINF:-1 ,北京卫视BTV-1
+http://yfsl.vsd.gehua.net.cn/live/BTV1HD_6000.m3u8
+#EXTINF:-1 ,北京文艺BTV-2
+http://yfsl.vsd.gehua.net.cn/live/BTVwenyiHD_6000.m3u8
+#EXTINF:-1 ,北京科教BTV-3
+http://yfsl.vsd.gehua.net.cn/live/BTVKeJiaoHD_6000.m3u8
+#EXTINF:-1 ,北京科教BTV-3
+http://yfsl.vsd.gehua.net.cn/live/BTV3HD_2000.m3u8
+#EXTINF:-1 ,北京影视BTV-4
+http://yfsl.vsd.gehua.net.cn/live/BTV4HD_6000.m3u8
+#EXTINF:-1 ,北京财经BTV-5
+http://yfsl.vsd.gehua.net.cn/live/BTVCaiJingHD_6000.m3u8
+#EXTINF:-1 ,北京财经BTV-5
+http://yfsl.vsd.gehua.net.cn/live/BTV5HD_2000.m3u8
+#EXTINF:-1 ,北京体育休闲BTV-6
+http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD_6000.m3u8
+#EXTINF:-1 ,北京生活BTV-7
+http://yfsl.vsd.gehua.net.cn/live/BTVShengHuoHD_6000.m3u8
+#EXTINF:-1 ,北京生活BTV-7
+http://yfsl.vsd.gehua.net.cn/live/BTV7HD_2000.m3u8
+#EXTINF:-1 ,北京青年BTV-8
+http://yfsl.vsd.gehua.net.cn/live/BTVQingNianHD_6000.m3u8
+#EXTINF:-1 ,北京青年BTV-8
+http://yfsl.vsd.gehua.net.cn/live/BTV8HD_2000.m3u8
+#EXTINF:-1 ,北京新闻BTV-9
+http://yfsl.vsd.gehua.net.cn/live/BTV9HD_6000.m3u8
+#EXTINF:-1 ,北京新闻BTV-9
+http://yfsl.vsd.gehua.net.cn/live/ipcdn,BTVxinwenHD_6000K_live.m3u8
+#EXTINF:-1 ,北京卡酷BTV-10
+http://yfsl.vsd.gehua.net.cn/live/BTV10HD_2000.m3u8
+#EXTINF:-1 ,平谷电视台
+http://yfsl.vsd.gehua.net.cn/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
+#EXTINF:-1 ,门头沟电视台
+http://yfsl.vsd.gehua.net.cn/liv ... uQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
+#EXTINF:-1 ,京视剧场
+http://yfsl.vsd.gehua.net.cn/live/JinShiJuChang_2000.m3u8
+#EXTINF:-1 ,生态环境
+http://yfsl.vsd.gehua.net.cn/live/XinYuLe_2000.m3u8
+#EXTINF:-1 ,中国天气
+http://yfsl.vsd.gehua.net.cn/live/ChinaQiXiangPinDao_2000.m3u8
+#EXTINF:-1 ,乐游
+http://yfsl.vsd.gehua.net.cn/live/QuanJiShiHD_6000.m3u8
+#EXTINF:-1 ,CETV1
+http://yfsl.vsd.gehua.net.cn/live/CETV1HD_6000.m3u8
+#EXTINF:-1 ,CETV3
+http://yfsl.vsd.gehua.net.cn/live/CETV3HD_2000.m3u8
+#EXTINF:-1 ,CETV4
+http://yfsl.vsd.gehua.net.cn/live/CETV4HD_2000.m3u8
+#EXTINF:-1 ,早期教育
+http://yfsl.vsd.gehua.net.cn/live/ZaoQiJiaoYuHD_2000.m3u8
+#EXTINF:-1 ,爱家购物
+http://yfsl.vsd.gehua.net.cn/live/AiJiaGouWuHD_6000.m3u8
+#EXTINF:-1 ,时尚购物
+http://yfsl.vsd.gehua.net.cn/live/ShiShangGouWuHD_2000.m3u8
+#EXTINF:-1 ,优购物
+http://yfsl.vsd.gehua.net.cn/live/YouGouWuHD_2000.m3u8
+#EXTINF:-1 ,家有购物
+http://yfsl.vsd.gehua.net.cn/live/JiaYouGouWuHD_2000.m3u8
+#EXTINF:-1 ,动漫秀场
+http://yfsl.vsd.gehua.net.cn/live/DongManXiuChangHD_6000.m3u8
+#EXTINF:-1 ,游戏风云
+http://yfsl.vsd.gehua.net.cn/live/YouXiFengYunHD_6000.m3u8
+#EXTINF:-1 ,四海钓鱼
+http://yfsl.vsd.gehua.net.cn/live/SiHaiDiaoYuHD_2000.m3u8
+#EXTINF:-1 ,法治天地
+http://yfsl.vsd.gehua.net.cn/live/FaZhiTianDiHD_2000.m3u8
+#EXTINF:-1 ,置业频道
+http://yfsl.vsd.gehua.net.cn/live/ZhiYePinDaoHD_2000.m3u8
+#EXTINF:-1 ,中华美食
+http://yfsl.vsd.gehua.net.cn/live/ZhongHuaMeiShiHD_2000.m3u8
+#EXTINF:-1 ,环球旅游
+http://yfsl.vsd.gehua.net.cn/live/HuanQiuLvYouHD_2000.m3u8
+#EXTINF:-1 ,中视购物
+http://yfsl.vsd.gehua.net.cn/live/ZhongShiGouWuHD_2000.m3u8
+#EXTINF:-1 ,央广购物
+http://yfsl.vsd.gehua.net.cn/live/YangShiGouWu_2000.m3u8
+#EXTINF:-1 ,聚鲨环球精选
+http://yfsl.vsd.gehua.net.cn/live/GHSHD_1200.m3u8
+#EXTINF:-1 ,动感音乐
+http://yfsl.vsd.gehua.net.cn/live/DongGanYinYueHD_2000.m3u8
+#EXTINF:-1 ,收藏天下
+http://yfsl.vsd.gehua.net.cn/live/ShouCangTianXiaHD_2000.m3u8
+#EXTINF:-1 ,东方财经
+http://yfsl.vsd.gehua.net.cn/live/DongFangCaiJingHD_6000.m3u8
+#EXTINF:-1 ,中华特产
+http://yfsl.vsd.gehua.net.cn/live/KaoShiZaiXian_2000.m3u8
+#EXTINF:-1 ,优优宝贝
+http://yfsl.vsd.gehua.net.cn/live/YouYouBaoBeiHD_2000.m3u8
+#EXTINF:-1 ,弈坛春秋
+http://yfsl.vsd.gehua.net.cn/live/YiTanChunQiuHD_2000.m3u8
+#EXTINF:-1 ,老故事
+http://yfsl.vsd.gehua.net.cn/live/LaoGuShi_2000.m3u8
+#EXTINF:-1 ,发现之旅
+http://yfsl.vsd.gehua.net.cn/live/FaXianZhiLvHD_2000.m3u8
+#EXTINF:-1 ,财富天下
+http://yfsl.vsd.gehua.net.cn/live/CaiFuTianXiaHD_2000.m3u8
+#EXTINF:-1 ,环球奇观
+http://yfsl.vsd.gehua.net.cn/live/HuanQiuQiGuanHD_2000.m3u8
+#EXTINF:-1 ,天元围棋
+http://yfsl.vsd.gehua.net.cn/live/TianYuanWeiQiHD_2000.m3u8
+#EXTINF:-1 ,书画频道
+http://yfsl.vsd.gehua.net.cn/live/ShuHuaPinDao_2000.m3u8
+#EXTINF:-1 ,茶频道
+http://yfsl.vsd.gehua.net.cn/live/ChaPinDaoHD_2000.m3u8
+#EXTINF:-1 ,足球频道
+http://yfsl.vsd.gehua.net.cn/live/ZuQiuHD_6000.m3u8
