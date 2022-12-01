@@ -1,233 +1,83 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1HD
+#EXTINF:-1 ,CCTV-1 ç»¼åˆ
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m3u8
-#EXTINF:-1 ,CCTV2HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV2HD_6000.m3u8
-#EXTINF:-1 ,CCTV3HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV3HD_6000.m3u8
-#EXTINF:-1 ,CCTV4HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV4HD_6000.m3u8
-#EXTINF:-1 ,CCTV5HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV5HD_6000.m3u8
-#EXTINF:-1 ,CCTV5+HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV5plusHD_6000.m3u8
-#EXTINF:-1 ,CCTV6HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV6HD_6000.m3u8
-#EXTINF:-1 ,CCTV7HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV7HD_6000.m3u8
-#EXTINF:-1 ,CCTV8HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV8HD_6000.m3u8
-#EXTINF:-1 ,CCTV9HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV9HD_6000.m3u8
-#EXTINF:-1 ,CCTV10HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV10HD_6000.m3u8
-#EXTINF:-1 ,CCTV11
-http://yfsl.vsd.gehua.net.cn/live/CCTV11HD_2000.m3u8
-#EXTINF:-1 ,CCTV12HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV12HD_6000.m3u8
-#EXTINF:-1 ,CCTV13
-http://yfsl.vsd.gehua.net.cn/live/CCTV13HD_2000.m3u8
-#EXTINF:-1 ,CCTV14HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV14HD_6000.m3u8
-#EXTINF:-1 ,CCTV15HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV15HD_6000.m3u8
-#EXTINF:-1 ,CCTV16HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV16HD_6000.m3u8
-#EXTINF:-1 ,CCTV17HD
-http://yfsl.vsd.gehua.net.cn/live/CCTV17HD_6000.m3u8
-#EXTINF:-1 ,CGTN
-http://yfsl.vsd.gehua.net.cn/live/CGTN_2000.m3u8
-#EXTINF:-1 ,·ï»ËÖĞÎÄ
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 ,·ï»Ë×ÊÑ¶
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,¸è»ªµ¼ÊÓ
-http://yfsl.vsd.gehua.net.cn/live/GeHuadaoshiHD_6000.m3u8
-#EXTINF:-1 ,CHC¼ÒÍ¥Ó°Ôº
-http://yfsl.vsd.gehua.net.cn/live/CHC_2000.m3u8
-#EXTINF:-1 ,CHC¸ßÇåµçÓ°
-http://yfsl.vsd.gehua.net.cn/live/CHCHD_6000.m3u8
-#EXTINF:-1 ,CHC¶¯×÷µçÓ°
-http://yfsl.vsd.gehua.net.cn/live/Motion_2000.m3u8
-#EXTINF:-1 ,¶¼ÊĞ¾ç³¡
-http://yfsl.vsd.gehua.net.cn/live/DuShiJuChangHD_6000.m3u8
-#EXTINF:-1 ,¾¢±¬ÌåÓı
-http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_6000.m3u8
-#EXTINF:-1 ,Õã½­ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/ZheJiangHD_6000.m3u8
-#EXTINF:-1 ,±±¾©ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/BTV1HD_6000.m3u8
-#EXTINF:-1 ,¹ãÎ÷ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/GuangXiHD_6000.m3u8
-#EXTINF:-1 ,ÁÉÄşÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/LiaoNingHD_6000.m3u8
-#EXTINF:-1 ,°²»ÕÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/AnHuiHD_6000.m3u8
-#EXTINF:-1 ,½­ËÕÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/JiangSuHD_6000.m3u8
-#EXTINF:-1 ,¶«·½ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/DongFangHD_6000.m3u8
-#EXTINF:-1 ,¶«ÄÏÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/FuJianHD_6000.m3u8
-#EXTINF:-1 ,ºşÄÏÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/HuNanHD_6000.m3u8
-#EXTINF:-1 ,ºş±±ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/HuBeiHD_6000.m3u8
-#EXTINF:-1 ,¹ã¶«ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/GuangDongHD_6000.m3u8
-#EXTINF:-1 ,¹ãÎ÷ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/GuangXiHD_6000.m3u8
-#EXTINF:-1 ,ÉîÛÚÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/ShenZhenHD_6000.m3u8
-#EXTINF:-1 ,ËÄ´¨ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/SiChuanHD_6000.m3u8
-#EXTINF:-1 ,É½¶«ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/ShanDongHD_6000.m3u8
-#EXTINF:-1 ,ºÓÄÏÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/HeNanHD_6000.m3u8
-#EXTINF:-1 ,ºÓ±±ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/HeBeiHD_6000.m3u8
-#EXTINF:-1 ,½­Î÷ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/JiangXiHD_6000.m3u8
-#EXTINF:-1 ,Ìì½òÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/TianJinHD_6000.m3u8
-#EXTINF:-1 ,ÖØÇìÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/ChongQingHD_6000.m3u8
-#EXTINF:-1 ,ºÚÁú½­ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/HeiLongJiangHD_6000.m3u8
-#EXTINF:-1 ,¼ªÁÖÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/JiLinWeiShiHD_6000.m3u8
-#EXTINF:-1 ,º£ÄÏÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/LvYouWeiShiHD_6000.m3u8
-#EXTINF:-1 ,ÈıÉ³ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/ipcdn,SanSha_800K_live.m3u8
-#EXTINF:-1 ,ÄÚÃÉ¹ÅÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/NeiMengGuHD_2000.m3u8
-#EXTINF:-1 ,É½Î÷ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/ShanXiHD_2000.m3u8
-#EXTINF:-1 ,ÉÂÎ÷ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/ShannXiHD_2000.m3u8
-#EXTINF:-1 ,ÔÆÄÏÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/YunNanHD_2000.m3u8
-#EXTINF:-1 ,±øÍÅÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/BTTVHD_2000.m3u8
-#EXTINF:-1 ,¹óÖİÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/GuiZhouHD_2000.m3u8
-#EXTINF:-1 ,Çàº£ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/QingHaiHD_2000.m3u8
-#EXTINF:-1 ,X²ØÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/XiZangHD_2000.m3u8
-#EXTINF:-1 ,ĞÂ½®ÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/XinJiangHD_2000.m3u8
-#EXTINF:-1 ,¸ÊËàÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/GanSuHD_2000.m3u8
-#EXTINF:-1 ,ÏÃÃÅÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/XiaMenHD_2000.m3u8
-#EXTINF:-1 ,ÄşÏÄÎÀÊÓ
-http://yfsl.vsd.gehua.net.cn/live/NingXiaHD_2000.m3u8
-#EXTINF:-1 ,±±¾©ÎÀÊÓBTV-1
-http://yfsl.vsd.gehua.net.cn/live/BTV1HD_6000.m3u8
-#EXTINF:-1 ,±±¾©ÎÄÒÕBTV-2
-http://yfsl.vsd.gehua.net.cn/live/BTVwenyiHD_6000.m3u8
-#EXTINF:-1 ,±±¾©¿Æ½ÌBTV-3
-http://yfsl.vsd.gehua.net.cn/live/BTVKeJiaoHD_6000.m3u8
-#EXTINF:-1 ,±±¾©¿Æ½ÌBTV-3
-http://yfsl.vsd.gehua.net.cn/live/BTV3HD_2000.m3u8
-#EXTINF:-1 ,±±¾©Ó°ÊÓBTV-4
-http://yfsl.vsd.gehua.net.cn/live/BTV4HD_6000.m3u8
-#EXTINF:-1 ,±±¾©²Æ¾­BTV-5
-http://yfsl.vsd.gehua.net.cn/live/BTVCaiJingHD_6000.m3u8
-#EXTINF:-1 ,±±¾©²Æ¾­BTV-5
-http://yfsl.vsd.gehua.net.cn/live/BTV5HD_2000.m3u8
-#EXTINF:-1 ,±±¾©ÌåÓıĞİÏĞBTV-6
-http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD_6000.m3u8
-#EXTINF:-1 ,±±¾©Éú»îBTV-7
-http://yfsl.vsd.gehua.net.cn/live/BTVShengHuoHD_6000.m3u8
-#EXTINF:-1 ,±±¾©Éú»îBTV-7
-http://yfsl.vsd.gehua.net.cn/live/BTV7HD_2000.m3u8
-#EXTINF:-1 ,±±¾©ÇàÄêBTV-8
-http://yfsl.vsd.gehua.net.cn/live/BTVQingNianHD_6000.m3u8
-#EXTINF:-1 ,±±¾©ÇàÄêBTV-8
-http://yfsl.vsd.gehua.net.cn/live/BTV8HD_2000.m3u8
-#EXTINF:-1 ,±±¾©ĞÂÎÅBTV-9
-http://yfsl.vsd.gehua.net.cn/live/BTV9HD_6000.m3u8
-#EXTINF:-1 ,±±¾©ĞÂÎÅBTV-9
-http://yfsl.vsd.gehua.net.cn/live/ipcdn,BTVxinwenHD_6000K_live.m3u8
-#EXTINF:-1 ,±±¾©¿¨¿áBTV-10
-http://yfsl.vsd.gehua.net.cn/live/BTV10HD_2000.m3u8
-#EXTINF:-1 ,Æ½¹ÈµçÊÓÌ¨
-http://yfsl.vsd.gehua.net.cn/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
-#EXTINF:-1 ,ÃÅÍ·¹µµçÊÓÌ¨
-http://yfsl.vsd.gehua.net.cn/liv ... uQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
-#EXTINF:-1 ,¾©ÊÓ¾ç³¡
-http://yfsl.vsd.gehua.net.cn/live/JinShiJuChang_2000.m3u8
-#EXTINF:-1 ,ÉúÌ¬»·¾³
-http://yfsl.vsd.gehua.net.cn/live/XinYuLe_2000.m3u8
-#EXTINF:-1 ,ÖĞ¹úÌìÆø
-http://yfsl.vsd.gehua.net.cn/live/ChinaQiXiangPinDao_2000.m3u8
-#EXTINF:-1 ,ÀÖÓÎ
-http://yfsl.vsd.gehua.net.cn/live/QuanJiShiHD_6000.m3u8
-#EXTINF:-1 ,CETV1
-http://yfsl.vsd.gehua.net.cn/live/CETV1HD_6000.m3u8
-#EXTINF:-1 ,CETV3
-http://yfsl.vsd.gehua.net.cn/live/CETV3HD_2000.m3u8
-#EXTINF:-1 ,CETV4
-http://yfsl.vsd.gehua.net.cn/live/CETV4HD_2000.m3u8
-#EXTINF:-1 ,ÔçÆÚ½ÌÓı
-http://yfsl.vsd.gehua.net.cn/live/ZaoQiJiaoYuHD_2000.m3u8
-#EXTINF:-1 ,°®¼Ò¹ºÎï
-http://yfsl.vsd.gehua.net.cn/live/AiJiaGouWuHD_6000.m3u8
-#EXTINF:-1 ,Ê±ÉĞ¹ºÎï
-http://yfsl.vsd.gehua.net.cn/live/ShiShangGouWuHD_2000.m3u8
-#EXTINF:-1 ,ÓÅ¹ºÎï
-http://yfsl.vsd.gehua.net.cn/live/YouGouWuHD_2000.m3u8
-#EXTINF:-1 ,¼ÒÓĞ¹ºÎï
-http://yfsl.vsd.gehua.net.cn/live/JiaYouGouWuHD_2000.m3u8
-#EXTINF:-1 ,¶¯ÂşĞã³¡
-http://yfsl.vsd.gehua.net.cn/live/DongManXiuChangHD_6000.m3u8
-#EXTINF:-1 ,ÓÎÏ··çÔÆ
-http://yfsl.vsd.gehua.net.cn/live/YouXiFengYunHD_6000.m3u8
-#EXTINF:-1 ,ËÄº£µöÓã
-http://yfsl.vsd.gehua.net.cn/live/SiHaiDiaoYuHD_2000.m3u8
-#EXTINF:-1 ,·¨ÖÎÌìµØ
-http://yfsl.vsd.gehua.net.cn/live/FaZhiTianDiHD_2000.m3u8
-#EXTINF:-1 ,ÖÃÒµÆµµÀ
-http://yfsl.vsd.gehua.net.cn/live/ZhiYePinDaoHD_2000.m3u8
-#EXTINF:-1 ,ÖĞ»ªÃÀÊ³
-http://yfsl.vsd.gehua.net.cn/live/ZhongHuaMeiShiHD_2000.m3u8
-#EXTINF:-1 ,»·ÇòÂÃÓÎ
-http://yfsl.vsd.gehua.net.cn/live/HuanQiuLvYouHD_2000.m3u8
-#EXTINF:-1 ,ÖĞÊÓ¹ºÎï
-http://yfsl.vsd.gehua.net.cn/live/ZhongShiGouWuHD_2000.m3u8
-#EXTINF:-1 ,Ñë¹ã¹ºÎï
-http://yfsl.vsd.gehua.net.cn/live/YangShiGouWu_2000.m3u8
-#EXTINF:-1 ,¾Ûöè»·Çò¾«Ñ¡
-http://yfsl.vsd.gehua.net.cn/live/GHSHD_1200.m3u8
-#EXTINF:-1 ,¶¯¸ĞÒôÀÖ
-http://yfsl.vsd.gehua.net.cn/live/DongGanYinYueHD_2000.m3u8
-#EXTINF:-1 ,ÊÕ²ØÌìÏÂ
-http://yfsl.vsd.gehua.net.cn/live/ShouCangTianXiaHD_2000.m3u8
-#EXTINF:-1 ,¶«·½²Æ¾­
-http://yfsl.vsd.gehua.net.cn/live/DongFangCaiJingHD_6000.m3u8
-#EXTINF:-1 ,ÖĞ»ªÌØ²ú
-http://yfsl.vsd.gehua.net.cn/live/KaoShiZaiXian_2000.m3u8
-#EXTINF:-1 ,ÓÅÓÅ±¦±´
-http://yfsl.vsd.gehua.net.cn/live/YouYouBaoBeiHD_2000.m3u8
-#EXTINF:-1 ,ŞÄÌ³´ºÇï
-http://yfsl.vsd.gehua.net.cn/live/YiTanChunQiuHD_2000.m3u8
-#EXTINF:-1 ,ÀÏ¹ÊÊÂ
-http://yfsl.vsd.gehua.net.cn/live/LaoGuShi_2000.m3u8
-#EXTINF:-1 ,·¢ÏÖÖ®ÂÃ
-http://yfsl.vsd.gehua.net.cn/live/FaXianZhiLvHD_2000.m3u8
-#EXTINF:-1 ,²Æ¸»ÌìÏÂ
-http://yfsl.vsd.gehua.net.cn/live/CaiFuTianXiaHD_2000.m3u8
-#EXTINF:-1 ,»·ÇòÆæ¹Û
-http://yfsl.vsd.gehua.net.cn/live/HuanQiuQiGuanHD_2000.m3u8
-#EXTINF:-1 ,ÌìÔªÎ§Æå
-http://yfsl.vsd.gehua.net.cn/live/TianYuanWeiQiHD_2000.m3u8
-#EXTINF:-1 ,Êé»­ÆµµÀ
-http://yfsl.vsd.gehua.net.cn/live/ShuHuaPinDao_2000.m3u8
-#EXTINF:-1 ,²èÆµµÀ
-http://yfsl.vsd.gehua.net.cn/live/ChaPinDaoHD_2000.m3u8
-#EXTINF:-1 ,×ãÇòÆµµÀ
-http://yfsl.vsd.gehua.net.cn/live/ZuQiuHD_6000.m3u8
+#EXTINF:-1 ,CCTV-2 è´¢ç»
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv2/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV-5 ä½“è‚²
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-5+ ä½“è‚²+
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-6 ç”µå½±
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-7 å›½é˜²å†›äº‹
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV-8 ç”µè§†å‰§
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-9 è®°å½•
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv9/1200000/mnf.m3u8
+#EXTINF:-1 ,CCTV-12 ç¤¾ä¼šä¸æ³•
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV-13 æ–°é—»
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctvxw/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV-14 å°‘å„¿
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-15 éŸ³ä¹
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cctvyy/1300000/mnf.m3u8
+#EXTINF:-1 ,æµ™æ±Ÿå«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,åŒ—äº¬å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,å¹¿è¥¿å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/gxws/1300000/mnf.m3u8
+#EXTINF:-1 ,è¾½å®å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,å®‰å¾½å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,æ±Ÿè‹å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 ,ä¸œæ–¹å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 ,ä¸œå—å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,æ¹–å—å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,æ¹–åŒ—å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,å¹¿ä¸œå«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,å¹¿è¥¿å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/gxws/1300000/mnf.m3u8
+#EXTINF:-1 ,æ·±åœ³å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,å››å·å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/scws/1300000/mnf.m3u8
+#EXTINF:-1 ,å±±ä¸œå«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,æ²³å—å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/hnws/1300000/mnf.m3u8
+#EXTINF:-1 ,æ²³åŒ—å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/hbws/1300000/mnf.m3u8
+#EXTINF:-1 ,æ±Ÿè¥¿å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,å¤©æ´¥å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,é‡åº†å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/cqws/1300000/mnf.m3u8
+#EXTINF:-1 ,é»‘é¾™æ±Ÿå«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,å‰æ—å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/jlws/1300000/mnf.m3u8
+#EXTINF:-1 ,å†…è’™å¤å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/nmgws/1300000/mnf.m3u8
+#EXTINF:-1 ,é™•è¥¿å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/sxws/1300000/mnf.m3u8
+#EXTINF:-1 ,è´µå·å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/gzws/1300000/mnf.m3u8
+#EXTINF:-1 ,é’æµ·å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/qhws/1300000/mnf.m3u8
+#EXTINF:-1 ,æ–°ç–†å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/xjws/1300000/mnf.m3u8
+#EXTINF:-1 ,ç”˜è‚ƒå«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/gsws/1300000/mnf.m3u8
+#EXTINF:-1 ,å¦é—¨å«è§†
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/xmws/1300000/mnf.m3u8
